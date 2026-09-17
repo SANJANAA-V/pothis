@@ -1,0 +1,8 @@
+{
+  "name": "Remix EnergySync – Smart Hybrid Energy Storage System (HESS)",
+  "description": "Official monitoring and simulation platform for Electric Vehicle Hybrid Energy Storage Systems (HESS), integrating Battery and Supercapacitor with predictive load analysis, adaptive power sharing, and automated protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
